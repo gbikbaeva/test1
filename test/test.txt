@@ -1,3 +1,7 @@
 qwerty
 123
+<<<<<<< HEAD
 4556
+=======
+hjkkll;j67
+>>>>>>> b200f475d04a1c34dfcd8caf8a29febde3f606b7
